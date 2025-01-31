@@ -1,6 +1,6 @@
 # Red Social-Frontend 👥
 
-El frontend de esta página web estática fue desarrollado con React y optimizado con Vite para un mejor rendimiento. La aplicación permite la gestión de artículos mediante formularios y peticiones AJAX.
+El frontend de esta página web fue desarrollado con React y optimizado con Vite para un mejor rendimiento. La aplicación permite la gestión de artículos mediante formularios y peticiones AJAX.
 
 ## Tabla de Contenidos
 
